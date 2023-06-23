@@ -1,0 +1,13 @@
+parameter
+alphaWorkCarDriver
+alphaWorkCarPassenger
+alphaWorkBus
+alphaWorkTrain
+alphaSchoolCarDriver
+alphaSchoolCarPassenger
+alphaSchoolBus
+alphaSchoolTrain
+alphaLeisureCarDriver
+alphaLeisureCarPassenger
+alphaLeisureTram
+alphaLeisureTrain

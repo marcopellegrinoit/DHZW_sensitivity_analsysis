@@ -21,7 +21,7 @@ This repository contains scripts for sensitivity analysis of an agent-based mode
 
 ## Contributors
 
-This project was made possible thanks to the hard work and contributions from the following individuals:
+This project was made possible thanks to the hard work and contributions from:
 
 *   Marco Pellegrino (Author)
 *   Jan de Mooij

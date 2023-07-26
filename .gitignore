@@ -2,5 +2,5 @@
 .RData
 .DS_Store
 ._*
-DHZW-simulation_Sim-2APL/*
+output/*
 .ipynb_checkpoints

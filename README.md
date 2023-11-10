@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/badge/license-GPL--3.0-blue)
 
-# Sensitivity analysis Tools for Agent-Based models
+# Sensitivity Analysis for Transport Usage Predictive Model
 
 ## Table of Contents
 
